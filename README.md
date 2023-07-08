@@ -1,0 +1,2 @@
+# SolutionSqlSugar
+netCore
