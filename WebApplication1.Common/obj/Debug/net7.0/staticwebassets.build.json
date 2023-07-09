@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "IicAEFWRp9NFK7VVUaO4iPoSo1BQP0b9HLy7tt6eBdw=",
+  "Source": "WebApplication1.Common",
+  "BasePath": "_content/WebApplication1.Common",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\project\\netCore\\WebApiSqlSugar\\SolutionSqlSugar\\WebApplication1.Model\\WebApplication1.Model.csproj",
+      "Version": 2,
+      "Source": "WebApplication1.Model",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "r1H6vCuGRoB4ZvpONNpGfrcHPRmVFyP+izmcOXcKFfk=",
+  "Source": "WebApplication1.WebApi",
+  "BasePath": "_content/WebApplication1.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\project\\netCore\\WebApiSqlSugar\\SolutionSqlSugar\\WebApplication1.Common\\WebApplication1.Common.csproj",
+      "Version": 2,
+      "Source": "WebApplication1.Common",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "D:\\project\\netCore\\WebApiSqlSugar\\SolutionSqlSugar\\WebApplication1.Model\\WebApplication1.Model.csproj",
+      "Version": 2,
+      "Source": "WebApplication1.Model",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
